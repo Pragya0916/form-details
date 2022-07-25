@@ -1,0 +1,16 @@
+.heading_box{
+    margin-bottom: 2rem;
+}
+
+
+.list3{
+    float: left;
+    font-size: 15px;
+    color: rgb(70, 69, 69);
+    font-weight: 400;
+}
+.main_box{
+    display: flex;
+    width: 80%;
+    margin: .4rem .4rem;
+}

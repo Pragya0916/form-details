@@ -1,0 +1,28 @@
+*{
+    list-style: none;
+}
+.upload_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
+.upload_box{
+border-bottom: 1px rgb(229, 229, 229) solid;
+margin: .5rem .5rem;
+font-size: 16px;
+width: 60%;
+
+}
+.list{
+    float: left;
+font-weight: 500;
+}
+
+.btn{
+    color: #1B74E4;
+    float: right;
+    outline: none;
+    border: none;
+}

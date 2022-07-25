@@ -1,0 +1,34 @@
+@import '~antd/dist/antd.css';
+
+
+.steps{
+
+/* width: 50%; */
+left: 50%;
+
+margin-top: 5rem;
+margin-bottom: 0;
+
+}
+.steps-content {
+    min-height: 300px;
+    margin-top: 10px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: #fafafa;
+    border: 1px dashed #e9e9e9;
+    border-radius: 2px;
+  }
+  
+  .steps-action {
+    margin-top: 24px;
+    margin-right: 20px;
+    float: right;
+  }
+  .btn_back{
+    right : 100%;
+  }
+  .btn_next{
+    margin-right: 5rem;
+    margin-top: 2rem;
+  }

@@ -1,0 +1,28 @@
+
+
+.heading{
+    font-weight: 700;
+}
+.input{
+    width: 40%;
+    margin: .25rem .5rem;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(221, 221, 221);
+}
+.input:focus{
+    background-color: #fff;
+}
+.text-area{
+    width: 81%;  
+}
+.first_btn{
+    height: 5vh;
+    border-radius: 8px;
+    font-weight: 600;
+    border: 1px solid rgb(58, 54, 54);
+    margin-right: 10%;
+}
+.first_btn:hover{
+    color: #1890ff;
+    cursor: pointer;
+}
